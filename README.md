@@ -3,7 +3,6 @@
 **Summer 2023 - Summer Internship Program**  
 **Project Title**: Integrating Copy Number Alterations (CNAs) and Gene Expressions (GEs)  
 **Mentor**: Dr. Ibrahim Youssef (ibrahim.youssef@eng1.cu.edu.eg)  
-**Team**: SBME Students (3-4 members who have successfully completed their 2nd year)  
 **Project Duration**: Summer 2023
 
 ## Project Overview
@@ -67,11 +66,6 @@ For each cancer type:
      - **Results and Discussion**: In-depth reporting of findings, supported by figures and augmented with textual files or spreadsheets.
      - **Conclusion**: Summary of the overall findings.
 
-## Skills Required
-
-- **Programming**: Python, with experience in scientific libraries (NumPy, SciPy, Scikit-learn)
-- **Statistics**: Understanding of random variables, association analysis, hypothesis testing, and multivariable regression techniques.
-
 ## Project Workflow
 
 1. **Data Preprocessing**:
@@ -91,9 +85,3 @@ For each cancer type:
 ## Conclusion
 
 This project offers an opportunity to explore the intersection of bioinformatics and machine learning, with a focus on cancer genomics. By integrating CNAs and GEs data, we aim to uncover significant genomic predictors of gene expression changes, providing insights into cancer biology.
-
-## Contact Information
-For any questions or clarifications, please reach out to:  
-**Mentor**: Dr. Ibrahim Youssef (ibrahim.youssef@eng1.cu.edu.eg)
-
-Good luck!
